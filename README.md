@@ -1,2 +1,4 @@
 # hello_world
-first repository
+first repository]
+Hi
+my first git hub repository
